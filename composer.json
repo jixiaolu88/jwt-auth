@@ -1,5 +1,5 @@
 {
-    "name": "thans/tp-jwt-auth",
+    "name": "jixiaolu88/jwt-auth",
     "description": "thinkphp  jwt auth composer",
     "type": "library",
     "require": {
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Thans",
-            "email": "360641274@qq.com"
+            "email": "9730815@qq.com"
         }
     ],
     "autoload": {
